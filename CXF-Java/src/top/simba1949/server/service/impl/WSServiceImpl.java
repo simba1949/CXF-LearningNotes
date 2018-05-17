@@ -6,7 +6,7 @@ import javax.jws.WebService;
 /**
  * WebService接口实现类
  */
-@WebService(endpointInterface = "top.simba1949.server.service.WSService")
+@WebService
 public class WSServiceImpl implements WSService {
     @Override
     public String sayHi(String name) {

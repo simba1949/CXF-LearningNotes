@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CXF-Java/CXF-Java.iml" filepath="$PROJECT_DIR$/CXF-Java/CXF-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CXF-Java-WSImport-Client/CXF-Java-WSImport-Client.iml" filepath="$PROJECT_DIR$/CXF-Java-WSImport-Client/CXF-Java-WSImport-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CXF-Java-WSImport-Service/CXF-Java-WSImport-Service.iml" filepath="$PROJECT_DIR$/CXF-Java-WSImport-Service/CXF-Java-WSImport-Service.iml" />
     </modules>
   </component>
 </project>
