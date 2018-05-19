@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CXF-Java/CXF-Java.iml" filepath="$PROJECT_DIR$/CXF-Java/CXF-Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CXF-Java-WSImport-Client/CXF-Java-WSImport-Client.iml" filepath="$PROJECT_DIR$/CXF-Java-WSImport-Client/CXF-Java-WSImport-Client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CXF-Java-WSImport-Service/CXF-Java-WSImport-Service.iml" filepath="$PROJECT_DIR$/CXF-Java-WSImport-Service/CXF-Java-WSImport-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CXF-CXF-Wsdl2Java-Client/CXF-CXF-Wsdl2Java-Client.iml" filepath="$PROJECT_DIR$/CXF-CXF-Wsdl2Java-Client/CXF-CXF-Wsdl2Java-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CXF-CXF-Wsdl2Java-Service/CXF-CXF-Wsdl2Java-Service.iml" filepath="$PROJECT_DIR$/CXF-CXF-Wsdl2Java-Service/CXF-CXF-Wsdl2Java-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CXF-Interceptor-Client/CXF-Interceptor-Client.iml" filepath="$PROJECT_DIR$/CXF-Interceptor-Client/CXF-Interceptor-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CXF-Interceptor-Service/CXF-Interceptor-Service.iml" filepath="$PROJECT_DIR$/CXF-Interceptor-Service/CXF-Interceptor-Service.iml" />
     </modules>
   </component>
 </project>

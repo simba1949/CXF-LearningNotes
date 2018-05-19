@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/CXF-Java-WSImport-Client/src/top/simba1949/server/service/SayHelloResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/CXF-CXF-Wsdl2Java-Client/src/top/simba1949/webservice/service/GetWSServiceString.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/CXF-Interceptor-Client/src/top/simba1949/webservice/service/GetString.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/CXF-Spring-Maven-Client/src/main/java/top/simba1949/webservice/service/GetString.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/CXF-Spring-Maven-Service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/CXF-Spring-Maven-Service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CXF-SpringBoot-Maven-MultipartService" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CXF-SpringBoot-Maven-Service" charset="UTF-8" />
   </component>
 </project>

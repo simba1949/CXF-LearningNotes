@@ -7,13 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CXF-LearningNotes" />
+        <module name="CXF-Spring-Maven-Client" />
+        <module name="CXF-Spring-Maven-Service" />
         <module name="CXF-SpringBoot-Maven-Client" />
         <module name="CXF-SpringBoot-Maven-Service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="CXF-Spring-Maven-Client" target="1.5" />
-      <module name="CXF-Spring-Maven-Service" target="1.8" />
+      <module name="CXF-SpringBoot-Maven-MultipartService" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

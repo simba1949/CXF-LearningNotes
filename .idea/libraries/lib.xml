@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/CXF-CXF-Wsdl2Java-Service/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/CXF-CXF-Wsdl2Java-Service/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/CXF-CXF-Wsdl2Java-Service/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/CXF-CXF-Wsdl2Java-Service/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>

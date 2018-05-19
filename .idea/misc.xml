@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="FUSUsageTrigger">
-    <session id="976480048">
-      <usages-collector id="statistics.spring.core.usages.trigger">
-        <counts>
-          <entry key="fixes.SpringFacetInspection.AddFacetFix" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/CXF-SpringBoot-Maven-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/CXF-Spring-Maven-Service/pom.xml" />
         <option value="$PROJECT_DIR$/CXF-SpringBoot-Maven-Client/pom.xml" />
+        <option value="$PROJECT_DIR$/CXF-SpringBoot-Maven-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/CXF-Spring-Maven-Client/pom.xml" />
       </list>
     </option>
   </component>
